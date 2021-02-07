@@ -1,0 +1,173 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+   .menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+	margin-top: 10px;
+
+}
+.slider-content {
+    margin-top: 0px;
+}
+.cid {
+    bottom: -126px;
+}
+.cid li {
+    width: 13px;
+    height: 13px;
+}
+.slider-content h1{
+  font-size: 25px;
+  margin-bottom: 10px;
+ }
+ .slider-content h2 {
+    
+    letter-spacing: 1px;
+}
+/*feature start*/
+
+  .features {
+      padding-top: 35px;
+      padding-bottom: 55px;
+  }
+.c-h1{
+      font-size: 28px;
+  }
+.c-p{   
+     font-size: 18px;
+       letter-spacing: 0px; 
+  }
+.r-1{
+      margin-top: 25px;
+  }
+  .s-icon i {
+      font-size: 45px;
+  }
+  .s-text {
+      margin-top: 15px;
+      text-align: center;
+  }
+  .s-text h2 {
+      margin-bottom: 10px;
+      font-size: 20px;
+  }
+  .s-text p {
+       word-spacing: 0px; 
+       letter-spacing: 0px; 
+  }
+  /*feature end*/
+  /*contact start*/
+  .contact {
+      padding-top: 35px;
+      padding-bottom: 55px;
+  }
+  .f_button{
+      margin-top: 10px;
+  }
+  .f_form {
+    margin-top: 25px;
+      margin-bottom: 35px;
+  }
+  .ul_icon i {
+    margin-right: 5px;
+    font-size: 25px;
+      height: 25px;
+      width: 35px;
+      border-radius: 5px;
+  }
+  /*footer start*/
+  .f_c{
+    margin-bottom: 30px;
+    text-align: center;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+   .menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+	margin-top: 10px;
+
+}
+.slider-content {
+    margin-top: 20px;
+}
+.cid {
+    bottom: -120px;
+}
+.cid li {
+    width: 13px;
+    height: 13px;
+}
+/*feature start*/
+  .features {
+      padding-top: 50px;
+      padding-bottom: 70px;
+  }
+.c-p {
+       letter-spacing: 0px; 
+  }
+.r-1 {
+      margin-top: 35px;
+  }
+  .s-text {
+      margin-top: 20px;
+      text-align: center;
+  }
+  .s-text h2 {
+      margin-bottom: 10px;
+  }
+  /*feature end*/
+  /*contact start*/
+  .contact {
+      padding-top: 50px;
+      padding-bottom: 70px;
+  }
+  .f_form {
+      margin-top: 30px;
+      margin-bottom: 40px;
+  }
+  .ul_icon i {
+    font-size: 32px;
+      height: 32px;
+      width: 40px;
+      border-radius: 10px;
+  }
+  /*footer start*/
+  .f_c{
+    margin-bottom: 50px;
+    text-align: center;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .menu ul li a{
+	padding: 0 0 !important;
+	text-align: right;
+	margin-top: 10px;
+
+}
+.text-center {
+    margin-top: 63px;
+}
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ 
+    }
+
+ }
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+   
+ }
+
+/* Extra Extra large devices (extra large desktops, 1400px and up) */
+ @media (min-width: 1400px) { 
+   
+
+ }
